@@ -82,6 +82,7 @@ function getUniqueClasses(collection) {
 }
 
 /**
+ * 
  * Get a list of classes organized by title, then by level.
  * The titles should be in ascending order, the levels should be in descending order
  * @param {Object} collection - an array of yoga class objects
